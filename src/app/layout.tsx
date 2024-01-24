@@ -22,7 +22,7 @@ export default function RootLayout({
       <body className="bg-stone-700 text-white">
         <div className="h-screen">
           <nav>
-            <div className="font-bold mx-2 absolute top-4">
+            <div className="font-bold mx-2 top-4">
               <Link
                 href="/"
                 className="float-left text-center py-2 px-4 text-xl"
