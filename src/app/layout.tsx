@@ -41,6 +41,12 @@ export default function RootLayout({
               >
                 Contact
               </Link>
+              <Link
+                href="/projects"
+                className="float-right text-center py-2 px-4 text-xl"
+              >
+                Projects
+              </Link>
             </div>
           </nav>
           {children}
