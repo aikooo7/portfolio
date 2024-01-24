@@ -3,6 +3,7 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import Link from "next/link";
 import { Github } from "lucide-react";
+import { SpeedInsights } from '@vercel/speed-insights/next';
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -43,6 +44,7 @@ export default function RootLayout({
             </div>
           </nav>
           {children}
+          <SpeedInsights />
           <div className="absolute bottom-0 left-1/2 -translate-x-1/2 mb-3">
             <p className="flex items-center self-end flex-1 gap-2">
               Done by aikooo7
