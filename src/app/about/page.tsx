@@ -4,7 +4,7 @@ export default function About() {
   return (
     <main>
       <CenteredTitle>About me</CenteredTitle>
-      <div className="h-screen flex items-center">
+      <div className="h-screen w-screen flex items-center">
         <div className="mx-auto w-1/2 text-center">
           <p className="text-xl">
             I am a hobbiest programmer, who enjoys doing nerdy stuff aka low
