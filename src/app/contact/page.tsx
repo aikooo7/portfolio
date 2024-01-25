@@ -5,7 +5,7 @@ export default function Contact() {
     <main>
       <CenteredTitle>Contact me</CenteredTitle>
 
-      <div className="w-screen h-screen flex items-center items-center justify-center">
+      <div className="w-screen h-screen flex items-center justify-center">
         <div className="mx-auto w-3/4 text-center text-xl">
           <p>
             You can contact me by discord (aikoo7), by matrix (@aikoo7:matrix.org) or to my <a href="mailto:prozinhopro1973@gmail.com">email</a>
