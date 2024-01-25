@@ -6,8 +6,8 @@ export default function Projects() {
       <CenteredTitle>Projects</CenteredTitle>
 
       <div className="w-screen h-screen flex items-center items-center justify-center">
-        <div className="mx-auto w-1/2 text-center">
           <h1 className="text-3xl font-bold">WORK IN PROGRESS...</h1>
+        <div className="w-3/4 text-center">
         </div>
       </div>
     </main>
